@@ -612,6 +612,10 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     color: #ffffff;
 }
 
+.footer-form-input::placeholder {
+  color: #ffffff;
+}
+
 
 .footer-form-btn {
     min-width: 165px;
